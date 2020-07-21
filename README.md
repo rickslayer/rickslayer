@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Developer based in Curitiba - PR, Brazil.
 
-- 🏢 I'm currently working full-time with awesome e-commmerce at **@madeiramadeira**
+- 🏢 I'm currently working full-time in the largest awesome home goods e-commerce **< a href="https://github.com/madeiramadeirabr">madeiramadeira<a/>**
 - ⚙️ I use daily: `.py`, `.js`, `.php`, `.css`, `.html`, `.scss`,`.json`, `.yml`, `.sql`
 - 🌱 Learning more about and studying: **Python, Open Source, Serveless, AWS Tools**
 - 📫 Reach me asap: contact@prra.dev
