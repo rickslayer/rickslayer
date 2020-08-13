@@ -10,7 +10,7 @@
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/paulorick/">LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/prra/">LinkedIn/prra</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://prra.dev">prra.dev</a>
 
 <!--
