@@ -2,8 +2,8 @@
 ---
 
 #### I'm a Full-Stack Developer based in Curitiba - PR, Brazil.
-
-- 🏢 I'm currently working full-time in the largest awesome home goods e-commerce <a href="https://github.com/madeiramadeirabr">**madeiramadeira**</a>
+- 🌱 I Started to working at an Austria Company <a href="https://metos.at">Pessl Instruments</a>
+- 🏢 My last job was in the largest awesome home goods e-commerce <a href="https://github.com/madeiramadeirabr">**madeiramadeira**</a>
 - ⚙️ I use daily: `.py`, `.js`, `.php`, `.html`, `.scss`, `.vue`, `.json`, `.yml`, `.sql`
 - 🌱 Learning more about and studying: **Python, native clouds apps, Serverless, AWS Tools**
 - 📫 Reach me asap: contact@prra.dev
